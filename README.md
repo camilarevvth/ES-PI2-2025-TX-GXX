@@ -36,4 +36,16 @@ Cada artefato (HTML, CSS, TypeScript, etc.) terá o autor identificado no topo d
 Exemplo:
 ```ts
 // Autor: Camila Revvth — RA: 25012949
+## Como rodar o projeto completo
+1. Clone o repositório:
+   git clone https://github.com/camilarevvth/ES-PI2-2025-TX-GXX.git
+2. Configure o banco de dados
+3. Rode o backend:
+   cd backend
+   npm install
+   npm run dev
+4. Abra o frontend:
+   cd frontend
+   abrir index.html
+
 
