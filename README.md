@@ -21,3 +21,19 @@ NotaDez
 cd backend
 npm install
 npm run dev
+
+## 4. Branches
+Cada funcionalidade será desenvolvida em uma branch separada.  
+Exemplos:  
+- `feature/autenticacao`  
+- `feature/turmas`  
+- `feature/notas`  
+
+Depois, será feito merge para a branch principal (`main`) via *pull request*.
+## 5. Autoria dos arquivos
+Cada artefato (HTML, CSS, TypeScript, etc.) terá o autor identificado no topo do arquivo.  
+
+Exemplo:
+```ts
+// Autor: Camila Revvth — RA: 25012949
+
